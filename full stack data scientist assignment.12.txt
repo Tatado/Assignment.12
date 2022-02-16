@@ -1,0 +1,26 @@
+1.
+Read-binary ('rb') for PdfFileReader() and write-binary ('wb') for PdfFileWriter()
+2.
+Calling getPage(4) will return a Page object for About this Book, since page 0 is the first page.
+3.
+The numPages variable stores an integer of the number of pages in the PdfFileReader object.
+4.
+Call decrypt('swordfish')
+5.
+ "Ctrl+Shift+L" keys or "Ctrl+Shift+R" keys to rotate the current page to the left or right.
+6.
+ Runs are contiguous groups of characters within the a paragraph.whereas,
+A document contains multiple paragraphs. A paragraph begins on a new line and contains multiple runs.
+7.
+use doc.paragraph
+8.
+A Run object has these variables (not a paragraph)
+9.
+True always makes the Run object bolded and False makes it always not bolded, no matter what the style's bold setting is.
+ None will make the Run object just use the style's bold setting.
+10.
+Call the docx.Document() function.
+11.
+doc.add_paragraph('Hello there!')
+12.
+The integers 0,1,2,3, and 4
